@@ -1,0 +1,17 @@
+#main {
+  width: 5em;
+  color: #020014;
+}
+
+#quadrado {
+  width: 5em;
+  height: 8em;
+  background: blue;
+}
+
+#sidebar {
+  width: 5em;
+  color: #37ff00;
+  background: red;
+}
+/*# sourceMappingURL=style.css.map */

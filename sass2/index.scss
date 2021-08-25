@@ -1,0 +1,24 @@
+#conteudo{
+    width: 97%;
+
+    &-principal{
+        color: rgb(154, 0, 0);
+    }
+    &-secundario{
+        color: rgb(255, 0, 0);
+    }
+    &-final{
+        color: rgb(0, 202, 24);
+    }
+}
+
+#conteudo2{
+    width: 97%;
+
+    &-principal{
+        color: rgb(3, 127, 144);
+    }
+    &-secundario{
+        color: rgb(177, 0, 80);
+    }
+}
